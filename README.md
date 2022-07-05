@@ -33,7 +33,7 @@ package main
 import (
 	"fmt"
 
-	docker "github.com/fsouza/go-dockerclient"
+	docker "github.com/maxkulish/go-dockerclient"
 )
 
 func main() {
@@ -68,7 +68,7 @@ package main
 import (
 	"fmt"
 
-	docker "github.com/fsouza/go-dockerclient"
+	docker "github.com/maxkulish/go-dockerclient"
 )
 
 func main() {
@@ -94,7 +94,7 @@ package main
 import (
 	"fmt"
 
-	docker "github.com/fsouza/go-dockerclient"
+	docker "github.com/maxkulish/go-dockerclient"
 )
 
 func main() {
